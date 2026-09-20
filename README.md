@@ -152,7 +152,7 @@ A string is accepted if it contains at least two consecutive 1s (substring `11`)
 - **Rejected Examples:** `ε` ✗, `0` ✗, `1` ✗, `00` ✗, `01` ✗, `10` ✗, `010` ✗, `101` ✗, `10101` ✗ *(1s separated by 0s)*
 
 ### Visualization
-![Example 3](Example3/Example%203.png)
+![Example 3](Example%203/Example%203.png)
 
 ---
 
@@ -195,7 +195,7 @@ A string is accepted if the total number of 0s is even. The number of 1s does no
 
 ### Visualization
 ### Visualization
-![Example 4](Example4/Example%204.png)
+![Example 4](Example%204/Example%204.png)
 
 ---
 
